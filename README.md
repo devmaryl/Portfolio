@@ -87,7 +87,9 @@ Busco desarrollarme como desarrolladora Full Stack o Analista de Sistemas, parti
 
 📩 Contacto
 GitHub: https://github.com/devmaryl
+
 LinkedIn: linkedin.com/in/maría-laura-robledo-castro-a212a11b4
+
 Email: marylrobledocastro@gmail.com
 
 ⭐ Gracias por visitar mi portfolio.
