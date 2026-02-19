@@ -1,6 +1,7 @@
 Portfolio profesional
 
 María Laura Robledo Castro - Analista de Sistemas
+
 Desarrollo sistemas administrativos completos con enfoque en arquitectura, seguridad y bases de datos.
 Trabajo tanto en backend como en frontend, participando desde el análisis funcional y modelado hasta la implementación y validaciones técnicas.
 
@@ -90,8 +91,8 @@ Busco desarrollarme como desarrolladora Full Stack o Analista de Sistemas, parti
 
 GitHub: https://github.com/devmaryl
 
-LinkedIn: maría-laura-robledo-castro-a212a11b4
+LinkedIn: https://www.linkedin.com/in/mar%C3%ADa-laura-robledo-castro-a212a11b4/
 
 Email: marylrobledocastro@gmail.com
 
-⭐ Gracias por visitar mi portfolio.
+⭐ Gracias por visitar mi portfolio ⭐
