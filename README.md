@@ -40,6 +40,7 @@ Tecnologías utilizadas
 https://github.com/devmaryl/CeramiQCompras.git
 
 
+
 CeramiQ – Versión Python
 Reimplementación del sistema con enfoque modular en Python.
 
@@ -51,6 +52,7 @@ Características
 
 🔗 Repositorio:
 https://github.com/devmaryl/CeramiQ_Python.git
+
 
 
 Amolenaria – Sitio Web E-commerce
@@ -87,6 +89,7 @@ Conocimientos Técnicos
 Enfoque Profesional
 Busco desarrollarme como desarrolladora Full Stack o Analista de Sistemas, participando en proyectos donde pueda aportar tanto en diseño como en implementación técnica.
 
+
 📩 Contacto
 
 GitHub: https://github.com/devmaryl
@@ -94,5 +97,6 @@ GitHub: https://github.com/devmaryl
 LinkedIn: https://www.linkedin.com/in/mar%C3%ADa-laura-robledo-castro-a212a11b4/
 
 Email: marylrobledocastro@gmail.com
+
 
 ⭐ Gracias por visitar mi portfolio ⭐
