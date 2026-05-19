@@ -1,4 +1,4 @@
-Portfolio profesional
+**Portfolio profesional**
 
 **María Laura Robledo Castro 
 Analista de Sistemas | Desarrolladora .NET | SQL Server | Sistemas Empresariales**
@@ -23,6 +23,7 @@ Me especializo en soluciones empresariales utilizando tecnologías Microsoft, ar
 **Proyectos Destacados
 CeramiQ – Sistema Integral de Gestión
 C# + SQL Server + Arquitectura en Capas**
+
 Sistema administrativo completo para una empresa de cerámicas, desarrollado bajo arquitectura en capas y enfocado en seguridad, trazabilidad y gestión empresarial.
 
 **Funcionalidades principales**
@@ -51,6 +52,7 @@ https://github.com/devmaryl/CeramiQCompras.git
 
 **CeramiQ – Versión Python
 Python + SQL Server**
+
 Reimplementación modular del sistema CeramiQ utilizando Python, enfocada en separación de responsabilidades y conexión a base de datos.
 
 **Características**
@@ -66,6 +68,7 @@ https://github.com/devmaryl/CeramiQ_Python.git
 
 **Amolenaria – Catálogo Web E-commerce
 HTML + CSS + JavaScript**
+
 Sitio web responsive orientado a catálogo online y experiencia de usuario.
 
 **Funcionalidades**
@@ -119,6 +122,7 @@ Backend**
 - Sistemas inteligentes aplicados a negocios
 
 **Enfoque Profesional**
+
 Busco desarrollarme como Desarrolladora Full Stack, Analista de Sistemas o Analista Funcional Técnica, participando en proyectos donde pueda aportar tanto en diseño como en implementación técnica.
 Me interesa especialmente la integración de inteligencia artificial en sistemas empresariales y automatización de procesos.
 
