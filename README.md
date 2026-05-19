@@ -22,29 +22,30 @@ Perfil Profesional
 
 
 Proyectos Destacados
-- CeramiQ – Sistema Integral de Gestión (C# + SQL Server)
+CeramiQ – Sistema Integral de Gestión
 C# + SQL Server + Arquitectura en Capas
 
 Sistema administrativo completo para una empresa de cerámicas, desarrollado bajo arquitectura en capas y enfocado en seguridad, trazabilidad y gestión empresarial.
 
-Funcionalidades principales
-Autenticación segura con hash PBKDF2
-Control de acceso por roles y permisos
-Bloqueo por intentos fallidos
-Bitácora de seguridad y auditoría
-Gestión de compras, pagos, ventas y cobros
-ABMC de productos y proveedores
-Gestión de stock y documentos
-Cálculo automático de totales
-Validaciones y manejo de errores
-Implementación de procedimientos almacenados y triggers
+Funcionalidades principales:
+- Autenticación segura con hash PBKDF2
+- Control de acceso por roles y permisos
+- Bloqueo por intentos fallidos
+- Bitácora de seguridad y auditoría
+- Gestión de compras, pagos, ventas y cobros
+- ABMC de productos y proveedores
+- Gestión de stock y documentos
+- Cálculo automático de totales
+- Validaciones y manejo de errores
+- Implementación de procedimientos almacenados y triggers
+
 Tecnologías utilizadas
-C# WinForms
-.NET
-SQL Server
-Stored Procedures
-Arquitectura en capas
-Seguridad y control de acceso
+- C# WinForms
+- .NET
+- SQL Server
+- Stored Procedures
+- Arquitectura en capas
+- Seguridad y control de acceso
 
 🔗 Repositorio:
 https://github.com/devmaryl/CeramiQCompras.git
@@ -54,69 +55,74 @@ CeramiQ – Versión Python
 Python + SQL Server
 Reimplementación modular del sistema CeramiQ utilizando Python, enfocada en separación de responsabilidades y conexión a base de datos.
 
-Características
-Arquitectura modular
-Lógica desacoplada
-Ejecución de procedimientos almacenados
-Conexión y consultas a SQL Server
-Organización por módulos y capas
+Características:
+- Arquitectura modular
+- Lógica desacoplada
+- Ejecución de procedimientos almacenados
+- Conexión y consultas a SQL Server
+- Organización por módulos y capas
 
 🔗 Repositorio:
 https://github.com/devmaryl/CeramiQ_Python.git
 
 
-
 Amolenaria – Catálogo Web E-commerce
 HTML + CSS + JavaScript
-
 Sitio web responsive orientado a catálogo online y experiencia de usuario.
 
-Funcionalidades
-Catálogo dinámico de productos
-Diseño responsive
-Interfaz amigable
-Maquetación personalizada
-Navegación intuitiva
+Funcionalidades:
+- Catálogo dinámico de productos
+- Diseño responsive
+- Interfaz amigable
+- Maquetación personalizada
+- Navegación intuitiva
+  
 🔗 Repositorio:
 https://github.com/devmaryl/AmolenariaBoutique.git
 
+
 Conocimientos Técnicos:
-Backend
-C#
-Python
-SQL Server
-.NET
-Stored Procedures
-Triggers
-Diseño de bases de datos
-Frontend
-HTML5
-CSS3
-JavaScript
-Responsive Design
-Arquitectura y Diseño
-Arquitectura en capas
-DER (Entidad-Relación)
-DFD Nivel 0 y Nivel 1
-UML
-Casos de Uso
-Diagramas de Secuencia
-Documentación funcional
-Seguridad
-Hash PBKDF2
-Roles y permisos
-Bitácora de auditoría
-Control de acceso
-Manejo de excepciones
+Backend:
+- C#
+- Python
+- SQL Server
+- .NET
+- Stored Procedures
+- Triggers
+- Diseño de bases de datos
 
-Actualmente Aprendiendo
-IA aplicada a asistentes
-Integración de APIs de IA
-Automatización de procesos
-Python orientado a IA
-Sistemas inteligentes aplicados a negocios
-🌱 Enfoque Profesional
+Frontend:
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
 
+Arquitectura y Diseño:
+- Arquitectura en capas
+- DER (Entidad-Relación)
+- DFD Nivel 0 y Nivel 1
+- UML
+- Casos de Uso
+- Diagramas de Secuencia
+- Documentación funcional
+
+Seguridad:
+- Hash PBKDF2
+- Roles y permisos
+- Bitácora de auditoría
+- Control de acceso
+- Manejo de excepciones
+
+
+Actualmente Aprendiendo:
+- IA aplicada a asistentes
+- Integración de APIs de IA
+- Automatización de procesos
+- Python orientado a IA
+- Sistemas inteligentes aplicados a negocios
+
+
+Enfoque Profesional:
 Busco desarrollarme como Desarrolladora Full Stack, Analista de Sistemas o Analista Funcional Técnica, participando en proyectos donde pueda aportar tanto en diseño como en implementación técnica.
 
 Me interesa especialmente la integración de inteligencia artificial en sistemas empresariales y automatización de procesos.
