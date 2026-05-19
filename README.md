@@ -1,7 +1,7 @@
 **Portfolio profesional**
 
-#María Laura Robledo Castro 
-#Analista de Sistemas | Desarrolladora .NET | SQL Server | Sistemas Empresariales**
+**María Laura Robledo Castro 
+Analista de Sistemas | Desarrolladora .NET | SQL Server | Sistemas Empresariales**
 
 Desarrollo sistemas administrativos completos con enfoque en arquitectura, seguridad, bases de datos y análisis funcional.
 Participo en todas las etapas del desarrollo: modelado, diseño, implementación, validaciones técnicas y documentación.
